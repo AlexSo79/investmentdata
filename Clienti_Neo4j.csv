@@ -1,4 +1,4 @@
-ID_Cliente,Nome_Cliente,ID_Compagnia,Nome_Compagnia,ID_Gruppo,Nome_Gruppo,Cliente_Attivo,Scadenza_Contratto
+﻿ID_Cliente,Nome_Cliente,ID_Compagnia,Nome_Compagnia,ID_Gruppo,Nome_Gruppo,Cliente_Attivo,Scadenza_Contratto
 1,Mario Rossi,100,Allianz,314,Allianz Roma,1,31/12/2024
 2,Giuseppe Bianchi,101,Anima,350,Anima Milano,1,31/12/2024
 3,Paola Esse,102,Fideuram,170,Fideuram Torino,1,31/12/2024

@@ -1,3 +1,3 @@
 Domanda,Cypher
-Chi é il cliente con la scadenza di contratto piú vicina?,"MATCH (c:Clienti) WHERE c.scadenza_contratto IS NOT NULL RETURN c.nome_cliente AS nome, c.scadenza_contratto AS scadenza ORDER BY date(c.scadenza_contratto) ASC LIMIT 1"
-Quali sono I clienti che fanno parte della compagnia Allianz?,MATCH (c:Clienti) WHERE c.nome_compagnia = 'Allianz' RETURN c.nome_cliente AS nome
+Chi Ã© il cliente con la scadenza di contratto piÃº vicina?,"MATCH (c:Clienti) WHERE c.scadenza_contratto IS NOT NULL RETURN c.nome_cliente AS nome, c.scadenza_contratto AS scadenza ORDER BY date(c.scadenza_contratto) ASC LIMIT 1"
+Quali sono I clienti che fanno parte della compagnia Allianz?,"MATCH (c:Clienti) WHERE c.nome_compagnia = 'Allianz' RETURN c.nome_cliente AS nome"

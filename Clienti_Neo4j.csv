@@ -1,11 +1,11 @@
-ID_Cliente,Nome_Cliente,ID_Compagnia,Nome_Compagnia,ID_Gruppo,Nome_Gruppo,Cliente_Attivo,Scadenza_Contratto
-1,Mario Rossi,100,Allianz,314,Allianz Roma,1,2024-12-31
-2,Giuseppe Bianchi,101,Anima,350,Anima Milano,1,2024-12-31
-3,Paola Esse,102,Fideuram,170,Fideuram Torino,1,2024-12-31
-4,Marco Gialli,102,Fideuram,182,Fideuram Milano,1,2024-12-31
-5,Francesca Ari,100,Allianz,103,Allianz Firenze,1,2024-12-31
-6,Simona Napoli,100,Allianz,103,Allianz Firenze,1,2025-06-30
-7,Arturo Verdi,103,Mediolanum,117,Mediolanum Milano,0,2023-12-31
-8,Cristina Palermi,110,Zenit,118,Zenit Milano,0,2024-06-30
-9,Giovanni Blu,101,Anima,351,Anima Roma,1,2025-12-31
-10,Simone Neri,100,Allianz,362,Allianz Napoli,1,2026-01-01
+﻿ID_Cliente,Nome_Cliente,ID_Compagnia,Nome_Compagnia,ID_Gruppo,Nome_Gruppo,Cliente_Attivo,Scadenza_Contratto
+1,Mario Rossi,100,Allianz,314,Allianz Roma,1,31/12/2024
+2,Giuseppe Bianchi,101,Anima,350,Anima Milano,1,31/12/2024
+3,Paola Esse,102,Fideuram,170,Fideuram Torino,1,31/12/2024
+4,Marco Gialli,102,Fideuram,182,Fideuram Milano,1,31/12/2024
+5,Francesca Ari,100,Allianz,103,Allianz Firenze,1,31/12/2024
+6,Simona Napoli,100,Allianz,103,Allianz Firenze,1,30/06/2025
+7,Arturo Verdi,103,Mediolanum,117,Mediolanum Milano,0,31/12/2023
+8,Cristina Palermi,110,Zenit,118,Zenit Milano,0,30/06/2024
+9,Giovanni Blu,101,Anima,351,Anima Roma,1,31/12/2025
+10,Simone Neri,100,Allianz,362,Allianz Napoli,1,01/01/2026

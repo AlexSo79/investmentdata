@@ -1,11 +1,9 @@
 ﻿ID_Rapporto,ID_Tipo_Rapporto,Nome_Tipo_Rapporto,ID_Cliente,Nome_Rapporto,Ultimo_Aggiornamento
 1001,501,Performance,1,Azioni Q4 2022,13/08/2024
 1002,501,Performance,2,Performance Fine Anno 2022,25/11/2021
-1003,502,Rischio,3,Esteri Autorizzati Q4 2022,18/06/2021
-1004,501,Performance,4,Rapporto Annuale Fine Anno 2023,30/11/2022
-1005,501,Performance,5,Gruppo Q2 2023,09/03/2023
-1006,502,Rischio,6,Obbligazioni Semetrale Q1 2018,12/02/2023
-1007,501,Performance,7,Esteri Non Autorizzati 2020,02/10/2024
-1008,501,Performance,8,Cripto Annuale 2021,30/08/2024
-1009,501,Performance,9,Fondi di Fondi Q3 2023,17/05/2024
-1010,501,Performance,10,Azioni Q1 2024,03/03/2022
+1003,501,Performance,4,Rapporto Annuale Fine Anno 2023,30/11/2022
+1004,501,Performance,5,Gruppo Q2 2023,09/03/2023
+1005,501,Performance,7,Esteri Non Autorizzati 2020,02/10/2024
+1006,501,Performance,8,Cripto Annuale 2021,30/08/2024
+1007,501,Performance,9,Fondi di Fondi Q3 2023,17/05/2024
+1008,501,Performance,10,Azioni Q1 2024,03/03/2022
